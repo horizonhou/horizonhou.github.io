@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ruize Hou</title>
+    <link>https://horizonhou.github.io/</link>
+    <description>Recent content on Ruize Hou</description>
+    <image>
+      <url>https://horizonhou.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://horizonhou.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://horizonhou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://horizonhou.github.io/about/</link>
+      <pubDate>Thu, 07 Sep 2023 22:49:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/about/</guid>
+      <description>Hi, I am Ruize Hou.
+I am passionate about leveraging my data science knowledge and experience to tackle real world challenges and research problems. Beyong Math and Stats, Machine Learning and Optimization, Data Science &amp;hellip;&amp;hellip; I am interested in Economics, Quantitative Social Science, and History.
+I play a lot of sports, especially ball games, including 🏀 🏐 🎾 🏓 🏸 ⚽ 🏈
+I also enjoy playing frisbee, hiking, playing guitar, and singing.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Box Office Failures with LLM</title>
+      <link>https://horizonhou.github.io/projects/machine-learning-llm/</link>
+      <pubDate>Fri, 26 May 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/projects/machine-learning-llm/</guid>
+      <description>Abstract This report presents a comprehensive data science study designed to predict box office performance of movies, leveraging an integrated analysis of three extensive datasets: MovieLens 25M, IMDb Non-commericial, and Kaggle Movie Revenue. These datasets collectively provide a wealth of movie features, including ratings, revenue, metadata, and audience preferences. The study primarily aims to identify the key variables that influence a movie&amp;rsquo;s box office success or failure, seeking to unravel the potential impact of a movie&amp;rsquo;s budget on its box office performance, the likelihood of certain genres failing at the box office, and the strategies that can be optimized to maximize returns on movie production investments.</description>
+    </item>
+    
+    <item>
+      <title>Express Air Cargo Optimization</title>
+      <link>https://horizonhou.github.io/projects/logistics-optimization/</link>
+      <pubDate>Tue, 20 Dec 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/projects/logistics-optimization/</guid>
+      <description>Cargo Operations of Express Air Report Link to Github Repo
+Summary In this report, we formulate a mixed integer linear program to solve for the optimal cargo shipping schedule for Express Air. We reach an optimal cost of 17925 given 1200 aircraft and a set of constraints. By doing sensitivity analysis, we find that we can decrease the cost by increasing the fleet size and amount of incoming cargo in some scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Pricing Competition</title>
+      <link>https://horizonhou.github.io/projects/pricing-strategy/</link>
+      <pubDate>Mon, 19 Dec 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/projects/pricing-strategy/</guid>
+      <description>Pricing Competition Introduction The purpose of this project was to participate in a class pricing competition based on the previous knowledge of demand estimation, revenue maximization, and pricing learned from the class. The project consists of two parts. Part one requires our team to come up with a pricing strategy based on the user valuation of an arbitrary product, opponent price, and history of sale. Part two requires our team to train a machine learning model and complete the tasks of demand estimation based on three user covariants, and revenue maximization to output the optimal price.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Citi Bike Availability Using Markov Chains</title>
+      <link>https://horizonhou.github.io/projects/markov-chain/</link>
+      <pubDate>Thu, 15 Dec 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/projects/markov-chain/</guid>
+      <description>Predict Citi Bike Availability Using Markov Chains In this project, we used the stochastic model Markov Chains to predict the availability for Citi Bike of stations Broadway &amp;amp; W 25 St, Central Park S &amp;amp; 6 Ave, and Broadway &amp;amp; E 21 St in New York City.
+Method 1 Preprocessing In order to ensure adequate data, we first chose the three stations with the most bikes being ridden away as the object of our analysis, which are Broadway &amp;amp; W 25 St, Central Park S &amp;amp; 6 Ave, and Broadway &amp;amp; E 21 St.</description>
+    </item>
+    
+    <item>
+      <title>An Evaluation of the Potential Impact on China&#39;s Economy by Establishing the Beijing Stock Exchange</title>
+      <link>https://horizonhou.github.io/blogs/newthirdboard/</link>
+      <pubDate>Wed, 01 Dec 2021 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/blogs/newthirdboard/</guid>
+      <description>An Evaluation of the Potential Impact on China&amp;rsquo;s Economy by Establishing the Beijing Stock Exchange I. Introduction The year 2021 is being called the year of change, and China is undergoing a major change that has not been seen in a hundred years. First, China is seeking to transform its economy by limiting the Internet and real estate industries and vigorously promoting technological innovation. This is accompanied by the development of vocational education and the training of skilled personnel.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Using Amazon Polly</title>
+      <link>https://horizonhou.github.io/blogs/awspolly/</link>
+      <pubDate>Wed, 01 Dec 2021 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/blogs/awspolly/</guid>
+      <description>Amazon Polly We are going to use Amazon Polly which is a machine learning tool for converting text to lifelike speech. For more information, please visit the documentation.
+Set up an IAM role We need to update our permission in order to use Amazon Polly API. First, let&amp;rsquo;s find the Amazon SageMaker in the console and click on Notebook on the left side, select Notebook instances, then we click the link under Permissions and encryption.</description>
+    </item>
+    
+    <item>
+      <title>Researching the Impact of Multiple Factors in Speech Transcription Using Amazon Transcribe Service</title>
+      <link>https://horizonhou.github.io/projects/aws-anova/</link>
+      <pubDate>Sat, 15 May 2021 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/projects/aws-anova/</guid>
+      <description>Topic: Researching the Impact of Multiple Factors in Speech Transcription Using Amazon Transcribe Service Introduction Audio is a popular source of content expression, ranging from music, podcast, to zoom classes. Audio not only enhances multimedia applications by serving as an extra channel of information but also adds a sense of realism by conveying emotion, time period, and geographical location of the speaker. During the Covid-19 pandemic in which social distancing is required, audio has become an increasingly important channel for people to conduct their businesses and connect with each other.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://horizonhou.github.io/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://horizonhou.github.io/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

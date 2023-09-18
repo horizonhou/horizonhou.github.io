@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Ruize Hou</title>
+    <link>https://horizonhou.github.io/blogs/</link>
+    <description>Recent content in Blogs on Ruize Hou</description>
+    <image>
+      <url>https://horizonhou.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://horizonhou.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 23:15:00 +0700</lastBuildDate><atom:link href="https://horizonhou.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Evaluation of the Potential Impact on China&#39;s Economy by Establishing the Beijing Stock Exchange</title>
+      <link>https://horizonhou.github.io/blogs/newthirdboard/</link>
+      <pubDate>Wed, 01 Dec 2021 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/blogs/newthirdboard/</guid>
+      <description>An Evaluation of the Potential Impact on China&amp;rsquo;s Economy by Establishing the Beijing Stock Exchange I. Introduction The year 2021 is being called the year of change, and China is undergoing a major change that has not been seen in a hundred years. First, China is seeking to transform its economy by limiting the Internet and real estate industries and vigorously promoting technological innovation. This is accompanied by the development of vocational education and the training of skilled personnel.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Using Amazon Polly</title>
+      <link>https://horizonhou.github.io/blogs/awspolly/</link>
+      <pubDate>Wed, 01 Dec 2021 23:15:00 +0700</pubDate>
+      
+      <guid>https://horizonhou.github.io/blogs/awspolly/</guid>
+      <description>Amazon Polly We are going to use Amazon Polly which is a machine learning tool for converting text to lifelike speech. For more information, please visit the documentation.
+Set up an IAM role We need to update our permission in order to use Amazon Polly API. First, let&amp;rsquo;s find the Amazon SageMaker in the console and click on Notebook on the left side, select Notebook instances, then we click the link under Permissions and encryption.</description>
+    </item>
+    
+  </channel>
+</rss>
